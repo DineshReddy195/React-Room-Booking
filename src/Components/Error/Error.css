@@ -1,0 +1,21 @@
+.home-button{
+    margin-top: 3rem;
+    text-align: center;
+}
+.error-pic{
+    margin-top: 3rem;
+    text-align: center;
+}
+.image-error{
+    width: 25rem;
+    height: 25rem;
+}
+@media screen and (max-width:480px) {
+    .image-error{
+        width: 15rem;
+        height: 15rem;
+    }
+    .error-pic{
+        margin-top: 3rem;
+    }
+}
